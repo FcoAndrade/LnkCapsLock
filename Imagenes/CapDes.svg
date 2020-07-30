@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   style="enable-background:new"
+   viewBox="0 0 363.09 372.69"
+   version="1.1"
+   sodipodi:docname="CapDes.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <sodipodi:namedview
+     inkscape:snap-others="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-center="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-global="false"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:document-rotation="0"
+     pagecolor="#a3a3eb"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview40"
+     showgrid="false"
+     inkscape:zoom="0.80635484"
+     inkscape:cx="-24.209761"
+     inkscape:cy="265.35934"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     inkscape:snap-bbox="false"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:pagecheckerboard="true">
+    <sodipodi:guide
+       id="guide1962"
+       orientation="0,-1"
+       position="275.31304,362.76881" />
+    <sodipodi:guide
+       id="guide1964"
+       orientation="1,0"
+       position="10.541265,218.29148" />
+    <sodipodi:guide
+       id="guide1966"
+       orientation="0,-1"
+       position="197.80374,11.186627" />
+    <sodipodi:guide
+       position="217.64611,373.31008"
+       orientation="0,-1"
+       id="guide876" />
+    <sodipodi:guide
+       position="362.12345,414.85506"
+       orientation="1,0"
+       id="guide878" />
+    <sodipodi:guide
+       id="guide863"
+       orientation="0,-1"
+       position="383.82606,373.31007" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3780"
+       y2="343.08"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       x2="230.5"
+       y1="344.51"
+       x1="408.79">
+      <stop
+         id="stop3776"
+         stop-color="#979797"
+         offset="0" />
+      <stop
+         id="stop3782"
+         stop-color="#a2a2a2"
+         offset=".5" />
+      <stop
+         id="stop3778"
+         stop-color="#979797"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3792"
+       y2="444.44"
+       gradientUnits="userSpaceOnUse"
+       x2="317.76"
+       gradientTransform="matrix(0.9617,0,0,1.0354,11.601,-15.609)"
+       y1="456.08"
+       x1="317.64">
+      <stop
+         id="stop3788"
+         stop-color="#a2a2a2"
+         offset="0" />
+      <stop
+         id="stop3790"
+         stop-color="#ababab"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter3826"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3828"
+         stdDeviation="1.1285714" />
+    </filter>
+    <filter
+       id="filter3830"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3832"
+         stdDeviation="0.56022143" />
+    </filter>
+    <filter
+       id="filter3834"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3836"
+         stdDeviation="1.4454214" />
+    </filter>
+    <linearGradient
+       id="linearGradient3844"
+       y2="453.31"
+       gradientUnits="userSpaceOnUse"
+       x2="302.83"
+       y1="241.17"
+       x1="306.06">
+      <stop
+         id="stop3840"
+         stop-color="#565656"
+         offset="0" />
+      <stop
+         id="stop3842"
+         stop-color="#e6e6e6"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3852"
+       y2="460.81"
+       gradientUnits="userSpaceOnUse"
+       x2="311.66"
+       y1="239.59"
+       x1="311.37">
+      <stop
+         id="stop3848"
+         stop-color="#9a9a9a"
+         offset="0" />
+      <stop
+         id="stop3850"
+         stop-color="#7a7a7a"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3899"
+       y2="479.51"
+       spreadMethod="reflect"
+       gradientUnits="userSpaceOnUse"
+       y1="349.86"
+       gradientTransform="translate(-0.50223,-0.34318)"
+       x2="203.71"
+       x1="175.57">
+      <stop
+         id="stop3858-0"
+         stop-color="#ababab"
+         offset="0" />
+      <stop
+         id="stop3860-6"
+         stop-color="#ababab"
+         stop-opacity="0"
+         offset="1" />
+    </linearGradient>
+    <filter
+       id="filter3918"
+       color-interpolation-filters="sRGB">
+      <feGaussianBlur
+         id="feGaussianBlur3920"
+         stdDeviation="0.84898438" />
+    </filter>
+    <filter
+       id="filter3839">
+      <feGaussianBlur
+         id="feGaussianBlur3841"
+         stdDeviation="0.86489018" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title></dc:title>
+        <dc:date>2013-04-21T11:16:20</dc:date>
+        <dc:description>a grey key of a computer keyboard impressed with the letter A</dc:description>
+        <dc:source>https://openclipart.org/detail/177336/key-a-by-fabuio-177336</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Fabuio</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>alphabet</rdf:li>
+            <rdf:li>alphanumeric</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>character</rdf:li>
+            <rdf:li>computer</rdf:li>
+            <rdf:li>font</rdf:li>
+            <rdf:li>key</rdf:li>
+            <rdf:li>keyboard</rdf:li>
+            <rdf:li>letter</rdf:li>
+            <rdf:li>number</rdf:li>
+            <rdf:li>pc</rdf:li>
+            <rdf:li>push</rdf:li>
+            <rdf:li>typeface</rdf:li>
+            <rdf:li>write</rdf:li>
+            <rdf:li>writer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     y="9.6019173"
+     x="10.250355"
+     height="352.33228"
+     width="343.10352"
+     id="rect877"
+     style="display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:23.5873;stroke-linecap:square;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+     x="69.910919"
+     y="288.33459"
+     id="text49"><tspan
+       sodipodi:role="line"
+       id="tspan47"
+       x="69.910919"
+       y="288.33459"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></text>
+  <path
+     sodipodi:insensitive="true"
+     id="path900"
+     d="M 345.45312,1.9082005 2.3496094,355.25586 16.699219,369.1875 359.80273,15.841795 Z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+  <path
+     id="path52"
+     d="M 9.5234375,-0.61914062 A 9.4960991,9.4960991 0 0 0 0.02929688,8.875 v 353.3457 a 9.4960991,9.4960991 0 0 0 9.49414062,9.4961 H 352.62891 a 9.4960991,9.4960991 0 0 0 9.49414,-9.4961 V 8.875 a 9.4960991,9.4960991 0 0 0 -9.49414,-9.49414062 z M 19.019531,18.371094 H 343.13281 V 352.72656 H 19.019531 Z"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:18.9903;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+</svg>

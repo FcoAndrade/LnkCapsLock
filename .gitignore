@@ -1,0 +1,8 @@
+﻿Components
+dcu
+Win32
+*.~dsk
+*.identcache
+*.skincfg
+LnkCapsLock.dsk
+*.local

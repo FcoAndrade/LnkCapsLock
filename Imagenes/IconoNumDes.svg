@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="2.2"
+   inkscape:export-xdpi="2.2"
+   inkscape:export-filename="C:\GITHUB\LnkCapsLock\Imagenes\IconoNumDes.png"
+   height="183mm"
+   width="183.01653mm"
+   sodipodi:docname="IconoNumDes.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   viewBox="0 0 691.71598 691.65352"
+   version="1.1"
+   id="svg2">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:cy="408.98129"
+     inkscape:cx="-72.871243"
+     inkscape:zoom="0.73784722"
+     units="mm"
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     inkscape:snap-bbox="true"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     showgrid="false"
+     id="namedview6"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:document-rotation="0">
+    <sodipodi:guide
+       id="guide854"
+       orientation="1,0"
+       position="-54.267502,424.9172" />
+    <sodipodi:guide
+       id="guide856"
+       orientation="1,0"
+       position="633.85797,-215.75103" />
+    <sodipodi:guide
+       id="guide858"
+       orientation="1,0"
+       position="57.857999,-215.75103" />
+    <sodipodi:guide
+       id="guide860"
+       orientation="0,-1"
+       position="57.857999,-141.46033" />
+  </sodipodi:namedview>
+  <rect
+     y="0.67764342"
+     x="1.1454668"
+     height="689.84473"
+     width="692.55536"
+     id="rect14"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     d="M 345.858,45.42824 57.858001,271.55657 H 201.858 V 497.6849 h 288 V 271.55657 h 144 z"
+     style="fill:none;stroke:#000000;stroke-width:40;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2834" />
+  <metadata
+     id="metadata3">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title />
+        <dc:date>2011-04-20T01:43:26</dc:date>
+        <dc:description>arrow pointing up
+\n
+\nI like this arrow because it fits into a square nicely.</dc:description>
+        <dc:source>https://openclipart.org/detail/133177/arrow-pointing-up-by-10binary</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>10binary</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>arrow</rdf:li>
+            <rdf:li>pointing</rdf:li>
+            <rdf:li>up</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path
+     sodipodi:nodetypes="ccccc"
+     id="rect2834-4"
+     style="fill:none;stroke:#000000;stroke-width:40;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 57.858001,571.43783 v 74.29071 H 633.858 v -74.29071 z" />
+  <text
+     id="text864"
+     y="439.40726"
+     x="231.91449"
+     style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:400px;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold,  Bold'"
+       y="439.40726"
+       x="231.91449"
+       id="tspan862"
+       sodipodi:role="line">1</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     id="path866"
+     d="M 675.87212,18.974118 18.974118,672.22588"
+     style="fill:none;stroke:#000000;stroke-width:60;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+</svg>

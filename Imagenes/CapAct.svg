@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="CapAct.svg"
+   version="1.1"
+   viewBox="0 0 363.09 372.69"
+   style="enable-background:new"
+   id="svg2">
+  <sodipodi:namedview
+     inkscape:pagecheckerboard="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="false"
+     inkscape:current-layer="svg2"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:cy="229.01756"
+     inkscape:cx="-213.18283"
+     inkscape:zoom="1.140358"
+     showgrid="false"
+     id="namedview40"
+     inkscape:window-height="1017"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="1"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#a3a3eb"
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-text-baseline="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-others="false">
+    <sodipodi:guide
+       position="275.31304,362.76881"
+       orientation="0,-1"
+       id="guide1962" />
+    <sodipodi:guide
+       position="10.541265,218.29148"
+       orientation="1,0"
+       id="guide1964" />
+    <sodipodi:guide
+       position="197.80374,11.186627"
+       orientation="0,-1"
+       id="guide1966" />
+    <sodipodi:guide
+       id="guide876"
+       orientation="0,-1"
+       position="217.64611,373.31008" />
+    <sodipodi:guide
+       id="guide878"
+       orientation="1,0"
+       position="362.12345,414.85506" />
+    <sodipodi:guide
+       position="383.82606,373.31007"
+       orientation="0,-1"
+       id="guide863" />
+  </sodipodi:namedview>
+  <defs
+     id="defs4">
+    <linearGradient
+       x1="408.79"
+       y1="344.51"
+       x2="230.5"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       y2="343.08"
+       id="linearGradient3780">
+      <stop
+         offset="0"
+         stop-color="#979797"
+         id="stop3776" />
+      <stop
+         offset=".5"
+         stop-color="#a2a2a2"
+         id="stop3782" />
+      <stop
+         offset="1"
+         stop-color="#979797"
+         id="stop3778" />
+    </linearGradient>
+    <linearGradient
+       x1="317.64"
+       y1="456.08"
+       gradientTransform="matrix(0.9617,0,0,1.0354,11.601,-15.609)"
+       x2="317.76"
+       gradientUnits="userSpaceOnUse"
+       y2="444.44"
+       id="linearGradient3792">
+      <stop
+         offset="0"
+         stop-color="#a2a2a2"
+         id="stop3788" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         stop-color="#ababab"
+         id="stop3790" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3826">
+      <feGaussianBlur
+         stdDeviation="1.1285714"
+         id="feGaussianBlur3828" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3830">
+      <feGaussianBlur
+         stdDeviation="0.56022143"
+         id="feGaussianBlur3832" />
+    </filter>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3834">
+      <feGaussianBlur
+         stdDeviation="1.4454214"
+         id="feGaussianBlur3836" />
+    </filter>
+    <linearGradient
+       x1="306.06"
+       y1="241.17"
+       x2="302.83"
+       gradientUnits="userSpaceOnUse"
+       y2="453.31"
+       id="linearGradient3844">
+      <stop
+         offset="0"
+         stop-color="#565656"
+         id="stop3840" />
+      <stop
+         offset="1"
+         stop-color="#e6e6e6"
+         id="stop3842" />
+    </linearGradient>
+    <linearGradient
+       x1="311.37"
+       y1="239.59"
+       x2="311.66"
+       gradientUnits="userSpaceOnUse"
+       y2="460.81"
+       id="linearGradient3852">
+      <stop
+         offset="0"
+         stop-color="#9a9a9a"
+         id="stop3848" />
+      <stop
+         offset="1"
+         stop-color="#7a7a7a"
+         id="stop3850" />
+    </linearGradient>
+    <linearGradient
+       x1="175.57"
+       x2="203.71"
+       gradientTransform="translate(-0.50223,-0.34318)"
+       y1="349.86"
+       gradientUnits="userSpaceOnUse"
+       spreadMethod="reflect"
+       y2="479.51"
+       id="linearGradient3899">
+      <stop
+         offset="0"
+         stop-color="#ababab"
+         id="stop3858-0" />
+      <stop
+         offset="1"
+         stop-opacity="0"
+         stop-color="#ababab"
+         id="stop3860-6" />
+    </linearGradient>
+    <filter
+       color-interpolation-filters="sRGB"
+       id="filter3918">
+      <feGaussianBlur
+         stdDeviation="0.84898438"
+         id="feGaussianBlur3920" />
+    </filter>
+    <filter
+       id="filter3839">
+      <feGaussianBlur
+         stdDeviation="0.86489018"
+         id="feGaussianBlur3841" />
+    </filter>
+  </defs>
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title />
+        <dc:date>2013-04-21T11:16:20</dc:date>
+        <dc:description>a grey key of a computer keyboard impressed with the letter A</dc:description>
+        <dc:source>https://openclipart.org/detail/177336/key-a-by-fabuio-177336</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Fabuio</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>alphabet</rdf:li>
+            <rdf:li>alphanumeric</rdf:li>
+            <rdf:li>button</rdf:li>
+            <rdf:li>character</rdf:li>
+            <rdf:li>computer</rdf:li>
+            <rdf:li>font</rdf:li>
+            <rdf:li>key</rdf:li>
+            <rdf:li>keyboard</rdf:li>
+            <rdf:li>letter</rdf:li>
+            <rdf:li>number</rdf:li>
+            <rdf:li>pc</rdf:li>
+            <rdf:li>push</rdf:li>
+            <rdf:li>typeface</rdf:li>
+            <rdf:li>write</rdf:li>
+            <rdf:li>writer</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:23.5873;stroke-linecap:square;stroke-linejoin:round"
+     id="rect877"
+     width="343.10352"
+     height="352.33228"
+     x="10.250355"
+     y="9.6019173" />
+  <path
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:18.9903;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+     d="M 9.5234375,-0.61914062 A 9.4960991,9.4960991 0 0 0 0.02929688,8.875 v 353.3457 a 9.4960991,9.4960991 0 0 0 9.49414062,9.4961 H 352.62891 a 9.4960991,9.4960991 0 0 0 9.49414,-9.4961 V 8.875 a 9.4960991,9.4960991 0 0 0 -9.49414,-9.49414062 z M 19.019531,18.371094 H 343.13281 V 352.72656 H 19.019531 Z"
+     id="path52" />
+  <text
+     id="text49"
+     y="288.33459"
+     x="70.636856"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'Britannic Bold';-inkscape-font-specification:'Britannic Bold, ';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+     xml:space="preserve"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:333.333px;font-family:Arial;-inkscape-font-specification:Arial;fill:#ffffff;stroke:#ffffff;stroke-width:3;stroke-miterlimit:4;stroke-dasharray:none"
+       y="288.33459"
+       x="70.636856"
+       id="tspan47"
+       sodipodi:role="line">A</tspan></text>
+</svg>
